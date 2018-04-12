@@ -7,10 +7,10 @@ No, it stops just before the line is run.
 
 
 3. How do we debug the next line of code?
-
+By stepping through the program
 
 4. What does the step into command do?
-
+Allows you to go into a method and see what is happening in the program at that point
 
 5. What is the difference between evaluate expression and evaluate code fragment?
-Evaluating an expression 
+Evaluating an expression allows you to look at a line of code, evaluating a code fragment allows you to evaluate a particular portion of a line of code.
