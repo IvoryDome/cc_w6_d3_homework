@@ -1,0 +1,16 @@
+1. What is the purpose of a breakpoint?
+To stop the program at a particular point so you can begin debugging
+
+
+2. Does the line of code on a breakpoint run when you start debugging?
+No, it stops just before the line is run.
+
+
+3. How do we debug the next line of code?
+
+
+4. What does the step into command do?
+
+
+5. What is the difference between evaluate expression and evaluate code fragment?
+Evaluating an expression 
